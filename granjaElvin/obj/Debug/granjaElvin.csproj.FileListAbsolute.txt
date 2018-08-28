@@ -1,0 +1,9 @@
+C:\Users\Dolger\source\repos\granjaElvin\granjaElvin\bin\Debug\granjaElvin.exe.config
+C:\Users\Dolger\source\repos\granjaElvin\granjaElvin\bin\Debug\granjaElvin.exe
+C:\Users\Dolger\source\repos\granjaElvin\granjaElvin\bin\Debug\granjaElvin.pdb
+C:\Users\Dolger\source\repos\granjaElvin\granjaElvin\obj\Debug\granjaElvin.csprojAssemblyReference.cache
+C:\Users\Dolger\source\repos\granjaElvin\granjaElvin\obj\Debug\granjaElvin.Properties.Resources.resources
+C:\Users\Dolger\source\repos\granjaElvin\granjaElvin\obj\Debug\granjaElvin.csproj.GenerateResource.cache
+C:\Users\Dolger\source\repos\granjaElvin\granjaElvin\obj\Debug\granjaElvin.csproj.CoreCompileInputs.cache
+C:\Users\Dolger\source\repos\granjaElvin\granjaElvin\obj\Debug\granjaElvin.exe
+C:\Users\Dolger\source\repos\granjaElvin\granjaElvin\obj\Debug\granjaElvin.pdb
